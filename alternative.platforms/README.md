@@ -239,7 +239,7 @@ Work notes partially based on: https://github.com/rootzoll/raspiblitz/blob/v1.7/
     # gpg: Total number processed: 1
     # gpg:               imported: 1
     # Verify the signature of the SHA512SUMS file
-    gpg --verify gpg --verify SHA512SUMS.sign
+    gpg --verify SHA512SUMS.sign
     # Look for the output 'Good signature':
     # gpg: assuming signed data in 'SHA512SUMS'
     # gpg: Signature made Sat 26 Mar 2022 21:22:41 GMT
